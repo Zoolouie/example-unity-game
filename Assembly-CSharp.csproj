@@ -53,6 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\DamageTile.cs" />
+     <Compile Include="Assets\Scripts\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\HealthCollectible.cs" />
      <Compile Include="Assets\Scripts\RubyController.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>F:/Unity/Example/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
